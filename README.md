@@ -2,12 +2,12 @@
 
 Hi there! I am **Zehra Öztürk**, a 3rd-year Computer Science student at **Istanbul University**.
 
-I am passionate about **Data Science**, **Artificial Intelligence**, and **Cybersecurity**. I love turning raw data into meaningful insights and building intelligent systems.
+I am passionate about **Data Science** and **Artificial Intelligence**. I love turning raw data into meaningful insights and building intelligent systems.
 
 * 🔭 **Current Work:** Part-time Software Support at **İnTime Info Yazılım Çözümleri A.Ş.**
 * 👯 **Community:** Vice President of the **Computer Science Club** at Istanbul University.
 * 🌱 **Currently Learning:** Deepening my skills in **Machine Learning**, **Feature Engineering**, and **Data Analysis**.
-* ⚡ **Interests:** When I'm not coding, I enjoy playing video games, watching anime (AoT & One Piece fan here!), and listening to metal music.
+* ⚡ **Interests:** When I'm not coding, I enjoy playing video games and watching true crime documentaries.
 
 ---
 
