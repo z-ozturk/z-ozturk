@@ -15,7 +15,7 @@ I build **ML pipelines**, dig into data, and try to make models that generalize.
 | Project | Description | Stack |
 |---|---|---|
 | [Audio Deepfake Detection](https://github.com/z-ozturk/Real-vs-Fake-Audio-Detection) | Binary classification of real vs. synthetic speech | Python, Librosa, Scikit-learn |
-| [Credit Card Fraud Detection](https://github.com/z-ozturk/credit-card-fraud-detection) | ML pipeline on 284K transactions, Random Forest | Python, Pandas, Scikit-learn |
+| [Credit Card Fraud Detection](https://github.com/z-ozturk/Credit-Card-Fraud-Detection) | ML pipeline on 284K transactions, Random Forest | Python, Pandas, Scikit-learn |
 | [Human Activity Recognition](https://github.com/z-ozturk/Human_Activity_Recognition) | 561-feature dimensionality reduction & classification | Python, Scikit-learn |
 
 ---
